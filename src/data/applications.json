@@ -1,0 +1,542 @@
+[
+  {
+    "id": "APP-3041",
+    "propertyId": "PROP-1001",
+    "applicantId": "APL-2041",
+    "assignedId": "U2",
+    "status": "Application Started",
+    "createdAt": "2026-10-01T09:00:00Z",
+    "form": {
+      "fullName": "Isla Campbell",
+      "email": "isla0@example.test"
+    },
+    "checks": {
+      "identity": {
+        "provider": "Demo Identity",
+        "status": "Not Started",
+        "reference": "DEMO-0",
+        "notes": "Fictional result for demonstration only."
+      },
+      "credit": {
+        "provider": "Simulated Experian",
+        "status": "Not Requested",
+        "reference": "DEMO-0",
+        "notes": "Fictional result for demonstration only."
+      },
+      "fcdo": {
+        "provider": "Demo Compliance",
+        "status": "Not Started",
+        "reference": "DEMO-0",
+        "notes": "Fictional result for demonstration only."
+      }
+    },
+    "declaration": false,
+    "recommendation": "Income and references support this application."
+  },
+  {
+    "id": "APP-3042",
+    "propertyId": "PROP-1002",
+    "applicantId": "APL-2042",
+    "assignedId": "U2",
+    "status": "Application Submitted",
+    "createdAt": "2026-10-02T09:00:00Z",
+    "form": {
+      "fullName": "Euan MacLeod",
+      "email": "euan1@example.test",
+      "phone": "07700 900001",
+      "dob": "1994-05-12",
+      "currentAddress": "24 Example Road, Edinburgh EH1 1AA",
+      "previousAddress": "6 Sample Street, Glasgow G1 2AB",
+      "employer": "Caledonia Design (fictional)",
+      "jobTitle": "Project coordinator",
+      "employment": "Employed",
+      "income": "38000",
+      "household": "2 adults",
+      "rentalHistory": "Current tenancy: 3 years",
+      "reference": "Previous landlord — reference@example.test",
+      "additional": "No additional requirements"
+    },
+    "checks": {
+      "identity": {
+        "provider": "Demo Identity",
+        "status": "Not Started",
+        "reference": "DEMO-1",
+        "notes": "Fictional result for demonstration only."
+      },
+      "credit": {
+        "provider": "Simulated Experian",
+        "status": "Not Requested",
+        "reference": "DEMO-1",
+        "notes": "Fictional result for demonstration only."
+      },
+      "fcdo": {
+        "provider": "Demo Compliance",
+        "status": "Not Started",
+        "reference": "DEMO-1",
+        "notes": "Fictional result for demonstration only."
+      }
+    },
+    "declaration": true,
+    "recommendation": "Income and references support this application."
+  },
+  {
+    "id": "APP-3043",
+    "propertyId": "PROP-1003",
+    "applicantId": "APL-2043",
+    "assignedId": "U2",
+    "status": "Documents Required",
+    "createdAt": "2026-10-03T09:00:00Z",
+    "form": {
+      "fullName": "Sophie Fraser",
+      "email": "sophie2@example.test",
+      "phone": "07700 900002",
+      "dob": "1994-05-12",
+      "currentAddress": "24 Example Road, Edinburgh EH1 1AA",
+      "previousAddress": "6 Sample Street, Glasgow G1 2AB",
+      "employer": "Caledonia Design (fictional)",
+      "jobTitle": "Project coordinator",
+      "employment": "Employed",
+      "income": "38000",
+      "household": "2 adults",
+      "rentalHistory": "Current tenancy: 3 years",
+      "reference": "Previous landlord — reference@example.test",
+      "additional": "No additional requirements"
+    },
+    "checks": {
+      "identity": {
+        "provider": "Demo Identity",
+        "status": "Not Started",
+        "reference": "DEMO-2",
+        "notes": "Fictional result for demonstration only."
+      },
+      "credit": {
+        "provider": "Simulated Experian",
+        "status": "Not Requested",
+        "reference": "DEMO-2",
+        "notes": "Fictional result for demonstration only."
+      },
+      "fcdo": {
+        "provider": "Demo Compliance",
+        "status": "Not Started",
+        "reference": "DEMO-2",
+        "notes": "Fictional result for demonstration only."
+      }
+    },
+    "declaration": true,
+    "recommendation": "Income and references support this application."
+  },
+  {
+    "id": "APP-3044",
+    "propertyId": "PROP-1004",
+    "applicantId": "APL-2044",
+    "assignedId": "U2",
+    "status": "Documents Complete",
+    "createdAt": "2026-10-04T09:00:00Z",
+    "form": {
+      "fullName": "Callum Stewart",
+      "email": "callum3@example.test",
+      "phone": "07700 900003",
+      "dob": "1994-05-12",
+      "currentAddress": "24 Example Road, Edinburgh EH1 1AA",
+      "previousAddress": "6 Sample Street, Glasgow G1 2AB",
+      "employer": "Caledonia Design (fictional)",
+      "jobTitle": "Project coordinator",
+      "employment": "Employed",
+      "income": "38000",
+      "household": "2 adults",
+      "rentalHistory": "Current tenancy: 3 years",
+      "reference": "Previous landlord — reference@example.test",
+      "additional": "No additional requirements"
+    },
+    "checks": {
+      "identity": {
+        "provider": "Demo Identity",
+        "status": "Not Started",
+        "reference": "DEMO-3",
+        "notes": "Fictional result for demonstration only."
+      },
+      "credit": {
+        "provider": "Simulated Experian",
+        "status": "Not Requested",
+        "reference": "DEMO-3",
+        "notes": "Fictional result for demonstration only."
+      },
+      "fcdo": {
+        "provider": "Demo Compliance",
+        "status": "Not Started",
+        "reference": "DEMO-3",
+        "notes": "Fictional result for demonstration only."
+      }
+    },
+    "declaration": true,
+    "recommendation": "Income and references support this application."
+  },
+  {
+    "id": "APP-3045",
+    "propertyId": "PROP-1005",
+    "applicantId": "APL-2045",
+    "assignedId": "U2",
+    "status": "Staff Review",
+    "createdAt": "2026-10-05T09:00:00Z",
+    "form": {
+      "fullName": "Freya Robertson",
+      "email": "freya4@example.test",
+      "phone": "07700 900004",
+      "dob": "1994-05-12",
+      "currentAddress": "24 Example Road, Edinburgh EH1 1AA",
+      "previousAddress": "6 Sample Street, Glasgow G1 2AB",
+      "employer": "Caledonia Design (fictional)",
+      "jobTitle": "Project coordinator",
+      "employment": "Employed",
+      "income": "38000",
+      "household": "2 adults",
+      "rentalHistory": "Current tenancy: 3 years",
+      "reference": "Previous landlord — reference@example.test",
+      "additional": "No additional requirements"
+    },
+    "checks": {
+      "identity": {
+        "provider": "Demo Identity",
+        "status": "Verified",
+        "reference": "DEMO-4",
+        "notes": "Fictional result for demonstration only."
+      },
+      "credit": {
+        "provider": "Simulated Experian",
+        "status": "Passed",
+        "reference": "DEMO-4",
+        "notes": "Fictional result for demonstration only."
+      },
+      "fcdo": {
+        "provider": "Demo Compliance",
+        "status": "Clear",
+        "reference": "DEMO-4",
+        "notes": "Fictional result for demonstration only."
+      }
+    },
+    "declaration": true,
+    "recommendation": "Income and references support this application."
+  },
+  {
+    "id": "APP-3046",
+    "propertyId": "PROP-1006",
+    "applicantId": "APL-2046",
+    "assignedId": "U2",
+    "status": "Landlord Review",
+    "createdAt": "2026-10-06T09:00:00Z",
+    "form": {
+      "fullName": "Lewis Murray",
+      "email": "lewis5@example.test",
+      "phone": "07700 900005",
+      "dob": "1994-05-12",
+      "currentAddress": "24 Example Road, Edinburgh EH1 1AA",
+      "previousAddress": "6 Sample Street, Glasgow G1 2AB",
+      "employer": "Caledonia Design (fictional)",
+      "jobTitle": "Project coordinator",
+      "employment": "Employed",
+      "income": "38000",
+      "household": "2 adults",
+      "rentalHistory": "Current tenancy: 3 years",
+      "reference": "Previous landlord — reference@example.test",
+      "additional": "No additional requirements"
+    },
+    "checks": {
+      "identity": {
+        "provider": "Demo Identity",
+        "status": "Verified",
+        "reference": "DEMO-5",
+        "notes": "Fictional result for demonstration only."
+      },
+      "credit": {
+        "provider": "Simulated Experian",
+        "status": "Passed",
+        "reference": "DEMO-5",
+        "notes": "Fictional result for demonstration only."
+      },
+      "fcdo": {
+        "provider": "Demo Compliance",
+        "status": "Clear",
+        "reference": "DEMO-5",
+        "notes": "Fictional result for demonstration only."
+      }
+    },
+    "declaration": true,
+    "recommendation": "Income and references support this application."
+  },
+  {
+    "id": "APP-3047",
+    "propertyId": "PROP-1007",
+    "applicantId": "APL-2047",
+    "assignedId": "U2",
+    "status": "Approved",
+    "createdAt": "2026-10-01T09:00:00Z",
+    "form": {
+      "fullName": "Amelia Scott",
+      "email": "amelia6@example.test",
+      "phone": "07700 900006",
+      "dob": "1994-05-12",
+      "currentAddress": "24 Example Road, Edinburgh EH1 1AA",
+      "previousAddress": "6 Sample Street, Glasgow G1 2AB",
+      "employer": "Caledonia Design (fictional)",
+      "jobTitle": "Project coordinator",
+      "employment": "Employed",
+      "income": "38000",
+      "household": "2 adults",
+      "rentalHistory": "Current tenancy: 3 years",
+      "reference": "Previous landlord — reference@example.test",
+      "additional": "No additional requirements"
+    },
+    "checks": {
+      "identity": {
+        "provider": "Demo Identity",
+        "status": "Verified",
+        "reference": "DEMO-6",
+        "notes": "Fictional result for demonstration only."
+      },
+      "credit": {
+        "provider": "Simulated Experian",
+        "status": "Passed",
+        "reference": "DEMO-6",
+        "notes": "Fictional result for demonstration only."
+      },
+      "fcdo": {
+        "provider": "Demo Compliance",
+        "status": "Clear",
+        "reference": "DEMO-6",
+        "notes": "Fictional result for demonstration only."
+      }
+    },
+    "declaration": true,
+    "recommendation": "Income and references support this application."
+  },
+  {
+    "id": "APP-3048",
+    "propertyId": "PROP-1008",
+    "applicantId": "APL-2048",
+    "assignedId": "U2",
+    "status": "Invited to Apply",
+    "createdAt": "2026-10-02T09:00:00Z",
+    "form": {
+      "fullName": "Finlay Reid",
+      "email": "finlay7@example.test",
+      "phone": "07700 900007",
+      "dob": "1994-05-12",
+      "currentAddress": "24 Example Road, Edinburgh EH1 1AA",
+      "previousAddress": "6 Sample Street, Glasgow G1 2AB",
+      "employer": "Caledonia Design (fictional)",
+      "jobTitle": "Project coordinator",
+      "employment": "Employed",
+      "income": "38000",
+      "household": "2 adults",
+      "rentalHistory": "Current tenancy: 3 years",
+      "reference": "Previous landlord — reference@example.test",
+      "additional": "No additional requirements"
+    },
+    "checks": {
+      "identity": {
+        "provider": "Demo Identity",
+        "status": "Verified",
+        "reference": "DEMO-7",
+        "notes": "Fictional result for demonstration only."
+      },
+      "credit": {
+        "provider": "Simulated Experian",
+        "status": "Passed",
+        "reference": "DEMO-7",
+        "notes": "Fictional result for demonstration only."
+      },
+      "fcdo": {
+        "provider": "Demo Compliance",
+        "status": "Clear",
+        "reference": "DEMO-7",
+        "notes": "Fictional result for demonstration only."
+      }
+    },
+    "declaration": true,
+    "recommendation": "Income and references support this application."
+  },
+  {
+    "id": "APP-3049",
+    "propertyId": "PROP-1009",
+    "applicantId": "APL-2049",
+    "assignedId": "U2",
+    "status": "Credit Check",
+    "createdAt": "2026-10-03T09:00:00Z",
+    "form": {
+      "fullName": "Emily Wilson",
+      "email": "emily8@example.test",
+      "phone": "07700 900008",
+      "dob": "1994-05-12",
+      "currentAddress": "24 Example Road, Edinburgh EH1 1AA",
+      "previousAddress": "6 Sample Street, Glasgow G1 2AB",
+      "employer": "Caledonia Design (fictional)",
+      "jobTitle": "Project coordinator",
+      "employment": "Employed",
+      "income": "38000",
+      "household": "2 adults",
+      "rentalHistory": "Current tenancy: 3 years",
+      "reference": "Previous landlord — reference@example.test",
+      "additional": "No additional requirements"
+    },
+    "checks": {
+      "identity": {
+        "provider": "Demo Identity",
+        "status": "Verified",
+        "reference": "DEMO-8",
+        "notes": "Fictional result for demonstration only."
+      },
+      "credit": {
+        "provider": "Simulated Experian",
+        "status": "Processing",
+        "reference": "DEMO-8",
+        "notes": "Fictional result for demonstration only."
+      },
+      "fcdo": {
+        "provider": "Demo Compliance",
+        "status": "Clear",
+        "reference": "DEMO-8",
+        "notes": "Fictional result for demonstration only."
+      }
+    },
+    "declaration": true,
+    "recommendation": "Income and references support this application."
+  },
+  {
+    "id": "APP-3050",
+    "propertyId": "PROP-1010",
+    "applicantId": "APL-2050",
+    "assignedId": "U2",
+    "status": "Rejected",
+    "createdAt": "2026-10-04T09:00:00Z",
+    "form": {
+      "fullName": "Harris MacDonald",
+      "email": "harris9@example.test",
+      "phone": "07700 900009",
+      "dob": "1994-05-12",
+      "currentAddress": "24 Example Road, Edinburgh EH1 1AA",
+      "previousAddress": "6 Sample Street, Glasgow G1 2AB",
+      "employer": "Caledonia Design (fictional)",
+      "jobTitle": "Project coordinator",
+      "employment": "Employed",
+      "income": "38000",
+      "household": "2 adults",
+      "rentalHistory": "Current tenancy: 3 years",
+      "reference": "Previous landlord — reference@example.test",
+      "additional": "No additional requirements"
+    },
+    "checks": {
+      "identity": {
+        "provider": "Demo Identity",
+        "status": "Verified",
+        "reference": "DEMO-9",
+        "notes": "Fictional result for demonstration only."
+      },
+      "credit": {
+        "provider": "Simulated Experian",
+        "status": "Passed",
+        "reference": "DEMO-9",
+        "notes": "Fictional result for demonstration only."
+      },
+      "fcdo": {
+        "provider": "Demo Compliance",
+        "status": "Clear",
+        "reference": "DEMO-9",
+        "notes": "Fictional result for demonstration only."
+      }
+    },
+    "declaration": true,
+    "recommendation": "Income and references support this application."
+  },
+  {
+    "id": "APP-3051",
+    "propertyId": "PROP-1011",
+    "applicantId": "APL-2051",
+    "assignedId": "U2",
+    "status": "ID Verification",
+    "createdAt": "2026-10-05T09:00:00Z",
+    "form": {
+      "fullName": "Olivia Brown",
+      "email": "olivia10@example.test",
+      "phone": "07700 900010",
+      "dob": "1994-05-12",
+      "currentAddress": "24 Example Road, Edinburgh EH1 1AA",
+      "previousAddress": "6 Sample Street, Glasgow G1 2AB",
+      "employer": "Caledonia Design (fictional)",
+      "jobTitle": "Project coordinator",
+      "employment": "Employed",
+      "income": "38000",
+      "household": "2 adults",
+      "rentalHistory": "Current tenancy: 3 years",
+      "reference": "Previous landlord — reference@example.test",
+      "additional": "No additional requirements"
+    },
+    "checks": {
+      "identity": {
+        "provider": "Demo Identity",
+        "status": "Pending",
+        "reference": "DEMO-10",
+        "notes": "Fictional result for demonstration only."
+      },
+      "credit": {
+        "provider": "Simulated Experian",
+        "status": "Passed",
+        "reference": "DEMO-10",
+        "notes": "Fictional result for demonstration only."
+      },
+      "fcdo": {
+        "provider": "Demo Compliance",
+        "status": "Clear",
+        "reference": "DEMO-10",
+        "notes": "Fictional result for demonstration only."
+      }
+    },
+    "declaration": true,
+    "recommendation": "Income and references support this application."
+  },
+  {
+    "id": "APP-3052",
+    "propertyId": "PROP-1012",
+    "applicantId": "APL-2052",
+    "assignedId": "U2",
+    "status": "Staff Review",
+    "createdAt": "2026-10-06T09:00:00Z",
+    "form": {
+      "fullName": "Archie Davidson",
+      "email": "archie11@example.test",
+      "phone": "07700 900011",
+      "dob": "1994-05-12",
+      "currentAddress": "24 Example Road, Edinburgh EH1 1AA",
+      "previousAddress": "6 Sample Street, Glasgow G1 2AB",
+      "employer": "Caledonia Design (fictional)",
+      "jobTitle": "Project coordinator",
+      "employment": "Employed",
+      "income": "38000",
+      "household": "2 adults",
+      "rentalHistory": "Current tenancy: 3 years",
+      "reference": "Previous landlord — reference@example.test",
+      "additional": "No additional requirements"
+    },
+    "checks": {
+      "identity": {
+        "provider": "Demo Identity",
+        "status": "Verified",
+        "reference": "DEMO-11",
+        "notes": "Fictional result for demonstration only."
+      },
+      "credit": {
+        "provider": "Simulated Experian",
+        "status": "Passed",
+        "reference": "DEMO-11",
+        "notes": "Fictional result for demonstration only."
+      },
+      "fcdo": {
+        "provider": "Demo Compliance",
+        "status": "Clear",
+        "reference": "DEMO-11",
+        "notes": "Fictional result for demonstration only."
+      }
+    },
+    "declaration": true,
+    "recommendation": "Income and references support this application."
+  }
+]

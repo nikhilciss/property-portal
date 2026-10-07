@@ -1,0 +1,27 @@
+[
+  {
+    "id": "TEN-0",
+    "name": "Freya Robertson",
+    "propertyId": "PROP-1001"
+  },
+  {
+    "id": "TEN-1",
+    "name": "Lewis Murray",
+    "propertyId": "PROP-1005"
+  },
+  {
+    "id": "TEN-2",
+    "name": "Amelia Scott",
+    "propertyId": "PROP-1009"
+  },
+  {
+    "id": "TEN-3",
+    "name": "Finlay Reid",
+    "propertyId": "PROP-1013"
+  },
+  {
+    "id": "TEN-4",
+    "name": "Emily Wilson",
+    "propertyId": "PROP-1017"
+  }
+]

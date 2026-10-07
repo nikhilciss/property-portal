@@ -1,0 +1,23 @@
+[
+  {
+    "id": "JF-1021",
+    "applicantId": "APL-2056",
+    "propertyId": "PROP-1016",
+    "status": "Received",
+    "stages": []
+  },
+  {
+    "id": "JF-1022",
+    "applicantId": "APL-2057",
+    "propertyId": "PROP-1017",
+    "status": "Received",
+    "stages": []
+  },
+  {
+    "id": "JF-1023",
+    "applicantId": "APL-2058",
+    "propertyId": "PROP-1018",
+    "status": "Received",
+    "stages": []
+  }
+]

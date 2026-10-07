@@ -1,0 +1,33 @@
+[
+  {
+    "id": "U1",
+    "name": "Alex Morgan",
+    "role": "ADMIN",
+    "email": "alex@example.test"
+  },
+  {
+    "id": "U2",
+    "name": "Sarah Henderson",
+    "role": "APPLICATIONS",
+    "email": "sarah@example.test"
+  },
+  {
+    "id": "U3",
+    "name": "David Wallace",
+    "role": "PROPERTY_MANAGER",
+    "email": "david@example.test"
+  },
+  {
+    "id": "U4",
+    "name": "Emma Wilson",
+    "role": "FIELD_OFFICER",
+    "email": "emma@example.test"
+  },
+  {
+    "id": "U5",
+    "name": "Isla Campbell",
+    "role": "APPLICANT",
+    "email": "isla@example.test",
+    "applicantId": "APL-2041"
+  }
+]

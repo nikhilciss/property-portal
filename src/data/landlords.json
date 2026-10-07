@@ -1,0 +1,32 @@
+[
+  {
+    "id": "LL-1",
+    "name": "Douglas Kerr",
+    "email": "landlord0@example.test"
+  },
+  {
+    "id": "LL-2",
+    "name": "Fiona MacKenzie",
+    "email": "landlord1@example.test"
+  },
+  {
+    "id": "LL-3",
+    "name": "Andrew Graham",
+    "email": "landlord2@example.test"
+  },
+  {
+    "id": "LL-4",
+    "name": "Kirsty Bell",
+    "email": "landlord3@example.test"
+  },
+  {
+    "id": "LL-5",
+    "name": "Ian Morrison",
+    "email": "landlord4@example.test"
+  },
+  {
+    "id": "LL-6",
+    "name": "Morag Young",
+    "email": "landlord5@example.test"
+  }
+]

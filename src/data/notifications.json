@@ -1,0 +1,322 @@
+[
+  {
+    "id": "NOT-9001",
+    "userId": "U3",
+    "title": "Application received",
+    "description": "Isla Campbell · 18 Queen Street",
+    "date": "2026-10-01T10:00:00Z",
+    "read": false,
+    "link": "/applications/APP-3041",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9002",
+    "userId": "U2",
+    "title": "Document ready for review",
+    "description": "Euan MacLeod · 44 George Street",
+    "date": "2026-10-02T10:00:00Z",
+    "read": false,
+    "link": "/applications/APP-3042",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9003",
+    "userId": "U2",
+    "title": "Inspection due",
+    "description": "Sophie Fraser · 12 Hanover Street",
+    "date": "2026-10-03T10:00:00Z",
+    "read": false,
+    "link": "/applications/APP-3043",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9004",
+    "userId": "U3",
+    "title": "Verification completed",
+    "description": "Callum Stewart · 7 Stockbridge Terrace",
+    "date": "2026-10-04T10:00:00Z",
+    "read": false,
+    "link": "/applications/APP-3044",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9005",
+    "userId": "U2",
+    "title": "Application received",
+    "description": "Freya Robertson · 26 Leith Walk",
+    "date": "2026-10-05T10:00:00Z",
+    "read": false,
+    "link": "/applications/APP-3045",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9006",
+    "userId": "U2",
+    "title": "Document ready for review",
+    "description": "Lewis Murray · 8 Marchmont Road",
+    "date": "2026-10-06T10:00:00Z",
+    "read": false,
+    "link": "/applications/APP-3046",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9007",
+    "userId": "U3",
+    "title": "Inspection due",
+    "description": "Amelia Scott · 31 Morningside Road",
+    "date": "2026-10-01T10:00:00Z",
+    "read": false,
+    "link": "/applications/APP-3047",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9008",
+    "userId": "U2",
+    "title": "Verification completed",
+    "description": "Finlay Reid · 14 Easter Road",
+    "date": "2026-10-02T10:00:00Z",
+    "read": false,
+    "link": "/applications/APP-3048",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9009",
+    "userId": "U2",
+    "title": "Application received",
+    "description": "Emily Wilson · 6 Dundas Street",
+    "date": "2026-10-03T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3049",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9010",
+    "userId": "U3",
+    "title": "Document ready for review",
+    "description": "Harris MacDonald · 22 Bruntsfield Place",
+    "date": "2026-10-04T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3050",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9011",
+    "userId": "U2",
+    "title": "Inspection due",
+    "description": "Olivia Brown · 9 Byres Road",
+    "date": "2026-10-05T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3051",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9012",
+    "userId": "U2",
+    "title": "Verification completed",
+    "description": "Archie Davidson · 48 Great Western Road",
+    "date": "2026-10-06T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3052",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9013",
+    "userId": "U3",
+    "title": "Application received",
+    "description": "Isla Campbell · 18 Queen Street",
+    "date": "2026-10-01T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3041",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9014",
+    "userId": "U2",
+    "title": "Document ready for review",
+    "description": "Euan MacLeod · 44 George Street",
+    "date": "2026-10-02T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3042",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9015",
+    "userId": "U2",
+    "title": "Inspection due",
+    "description": "Sophie Fraser · 12 Hanover Street",
+    "date": "2026-10-03T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3043",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9016",
+    "userId": "U3",
+    "title": "Verification completed",
+    "description": "Callum Stewart · 7 Stockbridge Terrace",
+    "date": "2026-10-04T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3044",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9017",
+    "userId": "U2",
+    "title": "Application received",
+    "description": "Freya Robertson · 26 Leith Walk",
+    "date": "2026-10-05T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3045",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9018",
+    "userId": "U2",
+    "title": "Document ready for review",
+    "description": "Lewis Murray · 8 Marchmont Road",
+    "date": "2026-10-06T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3046",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9019",
+    "userId": "U3",
+    "title": "Inspection due",
+    "description": "Amelia Scott · 31 Morningside Road",
+    "date": "2026-10-01T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3047",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9020",
+    "userId": "U2",
+    "title": "Verification completed",
+    "description": "Finlay Reid · 14 Easter Road",
+    "date": "2026-10-02T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3048",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9021",
+    "userId": "U2",
+    "title": "Application received",
+    "description": "Emily Wilson · 6 Dundas Street",
+    "date": "2026-10-03T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3049",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9022",
+    "userId": "U3",
+    "title": "Document ready for review",
+    "description": "Harris MacDonald · 22 Bruntsfield Place",
+    "date": "2026-10-04T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3050",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9023",
+    "userId": "U2",
+    "title": "Inspection due",
+    "description": "Olivia Brown · 9 Byres Road",
+    "date": "2026-10-05T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3051",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9024",
+    "userId": "U2",
+    "title": "Verification completed",
+    "description": "Archie Davidson · 48 Great Western Road",
+    "date": "2026-10-06T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3052",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9025",
+    "userId": "U3",
+    "title": "Application received",
+    "description": "Isla Campbell · 18 Queen Street",
+    "date": "2026-10-01T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3041",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9026",
+    "userId": "U2",
+    "title": "Document ready for review",
+    "description": "Euan MacLeod · 44 George Street",
+    "date": "2026-10-02T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3042",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9027",
+    "userId": "U2",
+    "title": "Inspection due",
+    "description": "Sophie Fraser · 12 Hanover Street",
+    "date": "2026-10-03T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3043",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9028",
+    "userId": "U3",
+    "title": "Verification completed",
+    "description": "Callum Stewart · 7 Stockbridge Terrace",
+    "date": "2026-10-04T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3044",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9029",
+    "userId": "U2",
+    "title": "Application received",
+    "description": "Freya Robertson · 26 Leith Walk",
+    "date": "2026-10-05T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3045",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9030",
+    "userId": "U2",
+    "title": "Document ready for review",
+    "description": "Lewis Murray · 8 Marchmont Road",
+    "date": "2026-10-06T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3046",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9031",
+    "userId": "U3",
+    "title": "Inspection due",
+    "description": "Amelia Scott · 31 Morningside Road",
+    "date": "2026-10-01T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3047",
+    "type": "Activity"
+  },
+  {
+    "id": "NOT-9032",
+    "userId": "U2",
+    "title": "Verification completed",
+    "description": "Finlay Reid · 14 Easter Road",
+    "date": "2026-10-02T10:00:00Z",
+    "read": true,
+    "link": "/applications/APP-3048",
+    "type": "Activity"
+  }
+]

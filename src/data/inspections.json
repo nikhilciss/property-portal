@@ -1,0 +1,731 @@
+[
+  {
+    "id": "INS-7012",
+    "propertyId": "PROP-1002",
+    "visitId": "VIS-6002",
+    "officerId": "U4",
+    "status": "Draft",
+    "items": [
+      {
+        "name": "General condition",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Entrance",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Living room",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Kitchen",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bedrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bathrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Heating",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Windows",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Safety observations",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Garden / exterior",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Cleanliness",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Pets observed",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Damp / mould",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Maintenance issues",
+        "condition": "",
+        "comment": ""
+      }
+    ],
+    "photos": [],
+    "notes": ""
+  },
+  {
+    "id": "INS-7013",
+    "propertyId": "PROP-1004",
+    "visitId": "VIS-6004",
+    "officerId": "U4",
+    "status": "Draft",
+    "items": [
+      {
+        "name": "General condition",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Entrance",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Living room",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Kitchen",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bedrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bathrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Heating",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Windows",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Safety observations",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Garden / exterior",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Cleanliness",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Pets observed",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Damp / mould",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Maintenance issues",
+        "condition": "",
+        "comment": ""
+      }
+    ],
+    "photos": [],
+    "notes": ""
+  },
+  {
+    "id": "INS-7014",
+    "propertyId": "PROP-1006",
+    "visitId": "VIS-6006",
+    "officerId": "U4",
+    "status": "Draft",
+    "items": [
+      {
+        "name": "General condition",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Entrance",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Living room",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Kitchen",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bedrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bathrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Heating",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Windows",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Safety observations",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Garden / exterior",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Cleanliness",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Pets observed",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Damp / mould",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Maintenance issues",
+        "condition": "",
+        "comment": ""
+      }
+    ],
+    "photos": [],
+    "notes": ""
+  },
+  {
+    "id": "INS-7015",
+    "propertyId": "PROP-1008",
+    "visitId": "VIS-6008",
+    "officerId": "U4",
+    "status": "Draft",
+    "items": [
+      {
+        "name": "General condition",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Entrance",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Living room",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Kitchen",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bedrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bathrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Heating",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Windows",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Safety observations",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Garden / exterior",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Cleanliness",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Pets observed",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Damp / mould",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Maintenance issues",
+        "condition": "",
+        "comment": ""
+      }
+    ],
+    "photos": [],
+    "notes": ""
+  },
+  {
+    "id": "INS-7016",
+    "propertyId": "PROP-1010",
+    "visitId": "VIS-6010",
+    "officerId": "U4",
+    "status": "Draft",
+    "items": [
+      {
+        "name": "General condition",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Entrance",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Living room",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Kitchen",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bedrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bathrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Heating",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Windows",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Safety observations",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Garden / exterior",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Cleanliness",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Pets observed",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Damp / mould",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Maintenance issues",
+        "condition": "",
+        "comment": ""
+      }
+    ],
+    "photos": [],
+    "notes": ""
+  },
+  {
+    "id": "INS-7017",
+    "propertyId": "PROP-1012",
+    "visitId": "VIS-6012",
+    "officerId": "U4",
+    "status": "Draft",
+    "items": [
+      {
+        "name": "General condition",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Entrance",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Living room",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Kitchen",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bedrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bathrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Heating",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Windows",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Safety observations",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Garden / exterior",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Cleanliness",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Pets observed",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Damp / mould",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Maintenance issues",
+        "condition": "",
+        "comment": ""
+      }
+    ],
+    "photos": [],
+    "notes": ""
+  },
+  {
+    "id": "INS-7018",
+    "propertyId": "PROP-1014",
+    "visitId": "VIS-6014",
+    "officerId": "U4",
+    "status": "Draft",
+    "items": [
+      {
+        "name": "General condition",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Entrance",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Living room",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Kitchen",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bedrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bathrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Heating",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Windows",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Safety observations",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Garden / exterior",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Cleanliness",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Pets observed",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Damp / mould",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Maintenance issues",
+        "condition": "",
+        "comment": ""
+      }
+    ],
+    "photos": [],
+    "notes": ""
+  },
+  {
+    "id": "INS-7019",
+    "propertyId": "PROP-1016",
+    "visitId": "VIS-6016",
+    "officerId": "U4",
+    "status": "Draft",
+    "items": [
+      {
+        "name": "General condition",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Entrance",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Living room",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Kitchen",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bedrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bathrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Heating",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Windows",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Safety observations",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Garden / exterior",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Cleanliness",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Pets observed",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Damp / mould",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Maintenance issues",
+        "condition": "",
+        "comment": ""
+      }
+    ],
+    "photos": [],
+    "notes": ""
+  },
+  {
+    "id": "INS-7020",
+    "propertyId": "PROP-1018",
+    "visitId": "VIS-6018",
+    "officerId": "U4",
+    "status": "Draft",
+    "items": [
+      {
+        "name": "General condition",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Entrance",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Living room",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Kitchen",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bedrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Bathrooms",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Heating",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Windows",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Safety observations",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Garden / exterior",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Cleanliness",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Pets observed",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Damp / mould",
+        "condition": "",
+        "comment": ""
+      },
+      {
+        "name": "Maintenance issues",
+        "condition": "",
+        "comment": ""
+      }
+    ],
+    "photos": [],
+    "notes": ""
+  }
+]
